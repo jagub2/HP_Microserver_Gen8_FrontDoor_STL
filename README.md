@@ -4,3 +4,7 @@ STL recreation of HP Microserver Gen8 Front door. Hook needs to be assembled to 
 You also need to mount mounting bolts somehow, I used heated them and inserted to door base, they are 3 mm in diameter.
 
 ![Final assembly](final_assembly.jpg)
+
+Made by: Śfagier & Śfagier
+
+Licensed under [WTFPL](LICENSE)
