@@ -7,4 +7,4 @@ You will also need to mount the mounting bolts somehow, I heated them and insert
 
 Made by: Śfagier & Śfagier
 
-Licensed under [WTFPL](LICENSE)
+Licensed under [WTFPL](LICENSE.md)
